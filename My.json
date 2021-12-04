@@ -1,4 +1,5 @@
 {
+
 "sites":[
 
 {"key":"唐人街","name":"唐人街(P)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Renjie.json"},
@@ -8,7 +9,7 @@
 {"key":"独播库","name":"独播库(P)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://pastebin.com/raw/VpcaXuHt"},
 {"key":"Sky4k","name":"Sky4k(P)[en]","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Sky4k.json"},
 {"key":"Nfuxs","name":"南府(P)","type":3,"api": "csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Nfuxs.json"},
-{"key":"csp_Cokemv","name":"Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":0,"filterable":1},
+{"key":"csp_Cokemv","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Imaple","name":"枫林网(爬虫)","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Jumi","name":"剧迷(爬虫)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Juhi","name":"剧嗨(爬虫)","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":0,"filterable":1},
@@ -205,9 +206,7 @@
 {"key":"csp_appys_iptv_云播影视","name":"云播影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"iptv_云播影视"}
 ],
 
-
 "lives":[{"group":"NewTV","channels":[{"name":"NewTV中国功夫","urls":["http://183.207.248.71:80/cntv/live1/n-gzkongfu/n-gzkongfu"]}]}],
-
 
 "parses":[
 {"name":"Json并发","type":2,"url":"Parallel"},
@@ -241,11 +240,7 @@
 {"name":"看剧吧","type":1,"url":"https://vip.mengx.vip/home/api?type=ys&uid=1646534&key=dhijluzBDNTUZ03678&url=","t":988,"i":"checkat2021-12-0120:06:21"}
 ],
 
-
-
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili"],
-
-
 
 "ijk":[
 {"group":"软解码","options":[
