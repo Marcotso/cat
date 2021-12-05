@@ -3,7 +3,7 @@
 
 
 ```json
-//以下配置不保证大佬jar包能用
+//以下配置不保证大佬jar包能用(我自用，会维护)
 {"key":"唐人街","name":"唐人街(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Renjie.json"},
 {"key":"Gimy","name":"Gimy(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Gimy.json"},
 {"key":"Jumi","name":"Jumi(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Jumi.json"},
