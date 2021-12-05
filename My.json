@@ -14,7 +14,7 @@
 {"key":"csp_Imaple","name":"枫林网(爬虫)","type":3,"api":"csp_Imaple","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Jumi","name":"剧迷(爬虫)","type":3,"api":"csp_Jumi","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Juhi","name":"剧嗨(爬虫)","type":3,"api":"csp_Juhi","searchable":1,"quickSearch":0,"filterable":1},
-{"key":"csp_appys_xiaogui_007影视","name":"007影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_007影视"},
+	
 {"key":"csp_appys_xiaogui_555电影","name":"555电影(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_555电影"},
 {"key":"csp_appys_xiaogui_5060影院","name":"5060影院(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_5060影院"},
 {"key":"csp_appys_xiaogui_913e影视","name":"913e影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"xiaogui_913e影视"},
@@ -128,7 +128,6 @@
 {"key":"csp_appys_v1_神马影视","name":"神马影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_神马影视"},
 {"key":"csp_appys_v1_思奇影视","name":"思奇影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_思奇影视"},
 {"key":"csp_appys_v1_视听星球","name":"视听星球(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_视听星球"},
-{"key":"csp_appys_v1_手指影视","name":"手指影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_手指影视"},
 {"key":"csp_appys_v1_土豆TV","name":"土豆TV(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_土豆TV"},
 {"key":"csp_appys_v1_淘剧社","name":"淘剧社(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_淘剧社"},
 {"key":"csp_appys_v1_天空影视","name":"天空影视(M)","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":0,"filterable":1,"ext":"v1_天空影视"},
