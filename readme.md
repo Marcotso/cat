@@ -8,6 +8,7 @@
 {"key":"独播库","name":"独播库(P)","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Duboku.json"},
 {"key":"Sky4k","name":"Sky4k(P)[en]","type":3,"api": "csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Sky4k.json"},
 {"key":"Nfuxs","name":"南府(P)","type":3,"api": "csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Nfuxs.json"},
+{"key":"Aixixi","name":"爱西西(P)","type":3,"api": "csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://cdn.jsdelivr.net/gh/Tangsan99999/cat@main/rewrite/xpath/Aixixi.json"},
 
 //官方jar包才能用
 {"key":"csp_Cokemv","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":0,"filterable":1},
